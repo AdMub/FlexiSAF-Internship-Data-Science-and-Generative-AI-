@@ -51,6 +51,8 @@ GOOGLE_API_KEY=your_actual_api_key_here
 streamlit run app.py
 ```
 
+### **App Interface**
+![Streamlit App Interface](assets/app_demo.png)
 
 ### **👨‍💻 Author**
 Mubarak Abiodun Adisa
