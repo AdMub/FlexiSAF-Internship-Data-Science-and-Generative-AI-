@@ -28,8 +28,8 @@ Whether a student needs a complex topic explained, a quick summary of a chapter,
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/AdMub/Distinction-AI-Tutor.git](https://github.com/YourUsername/Distinction-AI-Tutor.git)
-cd Distinction-AI-Tutor
+git clone [https://github.com/AdMub/FlexiSAF-Internship-Data-Science-and-Generative-AI-.git](https://github.com/AdMub/FlexiSAF-Internship-Data-Science-and-Generative-AI-.git)
+cd FlexiSAF-Internship-Data-Science-and-Generative-AI-/Advanced_Phase_Deliverables/Task_1_AI_Learning_Assistant
 ```
 
 **2. Install dependencies**
