@@ -1,0 +1,6 @@
+streamlit
+pandas
+keybert
+transformers
+torch
+fpdf

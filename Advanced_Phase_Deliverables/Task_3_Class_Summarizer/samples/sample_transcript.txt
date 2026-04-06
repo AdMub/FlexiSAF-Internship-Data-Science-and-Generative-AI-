@@ -1,0 +1,8 @@
+Teacher: Welcome everyone to today's Introduction to Deep Learning class. Today we are going to cover Artificial Neural Networks and how they differ from traditional machine learning models.
+Student A: Professor, can you explain what an activation function is before we start?
+Teacher: Great question! An activation function helps the neural network learn complex, non-linear patterns in the data. We will specifically look at the ReLU and Sigmoid functions today.
+Student B: Will these formulas be on the midterm exam?
+Teacher: Yes, the mathematical concepts of backpropagation and activation functions will definitely be on the midterm. 
+Teacher: Speaking of exams and grades, please write this down: Your homework for this week is to read Chapter 5 of the deep learning textbook. Furthermore, you all need to complete the Python coding assignment on building a basic perceptron and submit it to the portal by Friday at 11:59 PM. 
+Student A: Got it, thank you.
+Teacher: Perfect. Now, let's dive into the calculus behind gradient descent and loss functions...
