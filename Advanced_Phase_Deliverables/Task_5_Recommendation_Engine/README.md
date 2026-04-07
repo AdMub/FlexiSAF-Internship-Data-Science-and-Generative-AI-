@@ -25,7 +25,7 @@ This application is an intelligent admissions tool designed to match university 
 **1. Clone the repository**
 ```bash
 git clone [https://github.com/AdMub/FlexiSAF-Internship-Data-Science-and-Generative-AI-.git](https://github.com/AdMub/FlexiSAF-Internship-Data-Science-and-Generative-AI-.git)
-cd FlexiSAF-Internship-Data-Science-and-Generative-AI-/Advanced_Phase_Deliverables/Task_4_Recommendation_Engine
+cd FlexiSAF-Internship-Data-Science-and-Generative-AI-/Advanced_Phase_Deliverables/Task_5_Recommendation_Engine
 ```
 
 **2. Install Python Dependencies**
